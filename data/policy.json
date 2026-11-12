@@ -1,0 +1,11 @@
+{
+  "referenceDays": [
+    1,
+    2,
+    3
+  ],
+  "bandMinutes": 30,
+  "maxSlope": 2,
+  "maxGapMinutes": 30,
+  "scale": "reference"
+}
